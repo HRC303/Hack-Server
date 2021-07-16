@@ -47,11 +47,11 @@ echo $Y.
 /___/  _/\  /\___\___\|_|    .'/()\`.
     |_\  /_/                 \ \  / /";
 echo $R."\n++++++++++++++++++++++++++++++++++++++";
-echo $B."\nAuthor  : Cvar1984                   ".$R."+";
-echo $B."\nGithub  : https://github.com/Cvar1984".$R."+";
-echo $B."\nTeam    : BlackHole Security         ".$R."+";
-echo $B."\nVersion : 0.6.2                      ".$R."+";
-echo $B."\nDate    : 31-03-2018                 ".$R."+";
+echo $B."\nAuthor  : Mr.XXII                    ".$R."+";
+echo $B."\nBlogg   : https://bit.ly/3r5n16I     ".$R."+";
+echo $B."\nGroup   : https://bit.ly/3wJQfct     ".$R."+";
+echo $B."\nTeam    : Zonared XXII TEAM          ".$R."+";
+echo $B."\nWatsApp : https://bit.ly/3yYoNJH     ".$R."+";
 echo $R."\n++++++++++++++++++++++++++++++++++++++".$G."\n\n";
 function_exists("curl_init") OR die($YY . "[!] cUrl Is Missing [!]".$X."\n");
 if(!(isset($argv[1]) AND isset($argv[2]))) {
@@ -189,5 +189,5 @@ Url    : ".$url;
 		echo "Header : ".$header."\n";
 		echo "Url    : ".$Y.$url.$G."\n";
 	}
-	die($R."=========================== Cvar1984 ))=====(@)>".$X."\n");
+	die($R."=========================== 2021 ))=====(@)>".$X."\n");
 }
